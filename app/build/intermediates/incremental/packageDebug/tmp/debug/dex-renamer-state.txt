@@ -1,0 +1,7 @@
+#Mon Jun 27 11:51:16 CST 2022
+base.1=E\:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes2.dex
+path.1=classes2.dex
+base.0=E\:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

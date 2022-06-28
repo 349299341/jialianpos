@@ -1,0 +1,7 @@
+#Mon Jun 27 12:00:37 CST 2022
+base.0=E\:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex

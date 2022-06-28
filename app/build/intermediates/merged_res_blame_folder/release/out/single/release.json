@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_icon.png.flat",
+        "source": "E:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_splash.png.flat",
+        "source": "E:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_push.png.flat",
+        "source": "E:\\genhesoft\\DCloud\\JiaLianPay\\UniPlugin-Hello-AS\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    }
+]
